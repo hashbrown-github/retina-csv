@@ -1,0 +1,205 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.259183161,6.252934727 ]
+    },
+    "properties": {
+    "CityName":"Delta",
+    "Cluster":1,
+    "SubClusterNo":1,
+    "ZoneName":"",
+    "CityType":"N",
+    "Label":"FoodJoint,ClothingStore,Entertainment,Female Adults,Male Adults",
+    "WeeklyImpressionLL":"3,11,304",
+    "WeeklyImpressionUL":"4,35,960",
+    "AvgDailyImp":"53,376",
+    "AvgWeeklyImp":"3,73,632",
+    "AvgMonthlyImp":"16,01,280",
+    "Frequency":"1",
+    "ReachPerc":6.71,
+    "Vornoi":"1726470736_yDEXdi9e.png",
+    "CityId":103,
+    "UserId":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.69486274,6.202049584 ]
+    },
+    "properties": {
+    "CityName":"Delta",
+    "Cluster":1,
+    "SubClusterNo":2,
+    "ZoneName":"",
+    "CityType":"N",
+    "Label":"FoodJoint,ClothingStore,Entertainment,Female Adults,Male Adults",
+    "WeeklyImpressionLL":"3,19,032",
+    "WeeklyImpressionUL":"4,46,712",
+    "AvgDailyImp":"54,696",
+    "AvgWeeklyImp":"3,82,872",
+    "AvgMonthlyImp":"16,40,880",
+    "Frequency":"1",
+    "ReachPerc":20.67,
+    "Vornoi":"1726470736_yDEXdi9e.png",
+    "CityId":103,
+    "UserId":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.415706043,5.729697858 ]
+    },
+    "properties": {
+    "CityName":"Delta",
+    "Cluster":1,
+    "SubClusterNo":3,
+    "ZoneName":"",
+    "CityType":"N",
+    "Label":"FoodJoint,ClothingStore,Entertainment,Female Adults,Male Adults",
+    "WeeklyImpressionLL":"38,472",
+    "WeeklyImpressionUL":"53,928",
+    "AvgDailyImp":"6,600",
+    "AvgWeeklyImp":"46,200",
+    "AvgMonthlyImp":"1,98,000",
+    "Frequency":"1",
+    "ReachPerc":6.51,
+    "Vornoi":"1726470736_yDEXdi9e.png",
+    "CityId":103,
+    "UserId":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.766777924,5.532777293 ]
+    },
+    "properties": {
+    "CityName":"Delta",
+    "Cluster":2,
+    "SubClusterNo":4,
+    "ZoneName":"",
+    "CityType":"N",
+    "Label":"FoodJoint,ClothingStore,Entertainment,Female Adults,Male Adults",
+    "WeeklyImpressionLL":"1,70,016",
+    "WeeklyImpressionUL":"2,37,888",
+    "AvgDailyImp":"29,136",
+    "AvgWeeklyImp":"2,03,952",
+    "AvgMonthlyImp":"8,74,080",
+    "Frequency":"1",
+    "ReachPerc":9.49,
+    "Vornoi":"1726470736_yDEXdi9e.png",
+    "CityId":103,
+    "UserId":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.856355953,5.597609337 ]
+    },
+    "properties": {
+    "CityName":"Delta",
+    "Cluster":2,
+    "SubClusterNo":5,
+    "ZoneName":"",
+    "CityType":"N",
+    "Label":"FoodJoint,ClothingStore,Entertainment,Female Adults,Male Adults",
+    "WeeklyImpressionLL":"1,63,800",
+    "WeeklyImpressionUL":"2,29,320",
+    "AvgDailyImp":"28,080",
+    "AvgWeeklyImp":"1,96,560",
+    "AvgMonthlyImp":"8,42,400",
+    "Frequency":"1",
+    "ReachPerc":7.54,
+    "Vornoi":"1726470736_yDEXdi9e.png",
+    "CityId":103,
+    "UserId":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.097987115,5.5695084 ]
+    },
+    "properties": {
+    "CityName":"Delta",
+    "Cluster":2,
+    "SubClusterNo":6,
+    "ZoneName":"",
+    "CityType":"N",
+    "Label":"FoodJoint,ClothingStore,Entertainment,Female Adults,Male Adults",
+    "WeeklyImpressionLL":"38,808",
+    "WeeklyImpressionUL":"54,432",
+    "AvgDailyImp":"6,660",
+    "AvgWeeklyImp":"46,620",
+    "AvgMonthlyImp":"1,99,800",
+    "Frequency":"1",
+    "ReachPerc":43.73,
+    "Vornoi":"1726470736_yDEXdi9e.png",
+    "CityId":103,
+    "UserId":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.685168716,5.893532522 ]
+    },
+    "properties": {
+    "CityName":"Delta",
+    "Cluster":3,
+    "SubClusterNo":7,
+    "ZoneName":"",
+    "CityType":"N",
+    "Label":"FoodJoint,ClothingStore,Entertainment,Female Adults,Male Adults",
+    "WeeklyImpressionLL":"1,86,144",
+    "WeeklyImpressionUL":"2,60,568",
+    "AvgDailyImp":"31,908",
+    "AvgWeeklyImp":"2,23,356",
+    "AvgMonthlyImp":"9,57,240",
+    "Frequency":"1",
+    "ReachPerc":3.31,
+    "Vornoi":"1726470736_yDEXdi9e.png",
+    "CityId":103,
+    "UserId":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.290877684,5.624778549 ]
+    },
+    "properties": {
+    "CityName":"Delta",
+    "Cluster":3,
+    "SubClusterNo":8,
+    "ZoneName":"",
+    "CityType":"N",
+    "Label":"FoodJoint,ClothingStore,Entertainment,Female Adults,Male Adults",
+    "WeeklyImpressionLL":"1,63,800",
+    "WeeklyImpressionUL":"2,29,320",
+    "AvgDailyImp":"28,080",
+    "AvgWeeklyImp":"1,96,560",
+    "AvgMonthlyImp":"8,42,400",
+    "Frequency":"1",
+    "ReachPerc":2.03,
+    "Vornoi":"1726470736_yDEXdi9e.png",
+    "CityId":103,
+    "UserId":15
+    }
+  }
+]
+}
